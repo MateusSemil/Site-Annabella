@@ -1,0 +1,40 @@
+body{
+    background-image: url(imagens/fundo.png);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+ 
+.principal{
+    width: 900px;
+}
+
+nav  {
+    background: rgb(93, 111, 114);
+    height: 40px;
+    padding-top: 19px;
+}
+a {
+    text-decoration: none;
+    padding: 30px;
+    color: rgb(46, 50, 53);
+   font-weight: bold; 
+}   
+h3{
+    color:rgb(46, 50, 53); 
+    font-weight: bold;
+} 
+.conteudo{
+padding: 10px;
+background: lightgoldenrodyellow;
+
+}
+.rodape{
+    text-align: center;
+}
+   
+  
+       a:hover{
+           color: rgb(26, 3, 27);
+           transition: 0.6s;
+       }
+ 
